@@ -1,6 +1,21 @@
 {
     "response": [
         {
+            "incremental": "eng.erredi.20230609.160220",
+            "api_level": "33",
+            "url": "https://github.com/erredi/LineageOTAstatic/releases/download/2023.06.09_poplar_20.0/lineage-20.0-20230609-UNOFFICIAL-poplar.zip",
+            "timestamp": 1686319233,
+            "md5sum": "e38d9bdd4deb5df3ed84fa2f8c244315",
+            "changes": "https://github.com/erredi/LineageOTAstatic/releases/tag/2023.06.09_poplar_20.0",
+            "channel": "unofficial",
+            "filename": "lineage-20.0-20230609-UNOFFICIAL-poplar.zip",
+            "romtype": "unofficial",
+            "datetime": 1686319233,
+            "version": "20.0",
+            "id": "ea3a9bae0878fd1c3c4659d02223acb61b0414ca01a1a490e9b519f3b650a88f",
+            "size": 834335105
+        },
+        {
             "incremental": "eng.erredi.20230518.164116",
             "api_level": "33",
             "url": "https://github.com/erredi/LineageOTAstatic/releases/download/2023.05.18_poplar_20.0/lineage-20.0-20230518-UNOFFICIAL-poplar.zip",
