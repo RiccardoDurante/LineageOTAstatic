@@ -1,6 +1,21 @@
 {
     "response": [
         {
+            "incremental": "eng.erredi.20231208.123830",
+            "api_level": "33",
+            "url": "https://github.com/erredi/LineageOTAstatic/releases/download/2023.12.08_bahamut_20.0/lineage-20.0-20231208-UNOFFICIAL-poplar.zip",
+            "timestamp": 1702038171,
+            "md5sum": "4d6faa88f326645119982fad1840246b",
+            "changes": "https://github.com/erredi/LineageOTAstatic/releases/tag/2023.12.08_bahamut_20.0",
+            "channel": "unofficial",
+            "filename": "lineage-20.0-20231208-UNOFFICIAL-poplar.zip",
+            "romtype": "unofficial",
+            "datetime": 1702038171,
+            "version": "20.0",
+            "id": "2c5e6db5d3128270141f646b3a85d185f72deb98385859ad9bcf0784492a1db7",
+            "size": 842776606
+        },
+        {
             "incremental": "eng.erredi.20231117.102423",
             "api_level": "33",
             "url": "https://github.com/erredi/LineageOTAstatic/releases/download/2023.11.17_poplar_20.0/lineage-20.0-20231117-UNOFFICIAL-poplar.zip",
