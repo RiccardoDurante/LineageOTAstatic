@@ -1,6 +1,21 @@
 {
     "response": [
         {
+            "incremental": "eng.erredi.20240607.122241",
+            "api_level": "34",
+            "url": "https://github.com/erredi/LineageOTAstatic/releases/download/2024.06.07_bahamut_21.0/lineage-21.0-20240607-UNOFFICIAL-bahamut.zip",
+            "timestamp": 1717755760,
+            "md5sum": "9fe32e791706d951e4d541126243c268",
+            "changes": "https://github.com/erredi/LineageOTAstatic/releases/tag/2024.06.07_bahamut_21.0",
+            "channel": "unofficial",
+            "filename": "lineage-21.0-20240607-UNOFFICIAL-bahamut.zip",
+            "romtype": "unofficial",
+            "datetime": 1717755760,
+            "version": "21.0",
+            "id": "30e5264c23005fdf89617cd1feb060057105d29ccf5b9b1ecb69f881123b193b",
+            "size": 925115682
+        },
+        {
             "incremental": "eng.erredi.20240515.121127",
             "api_level": "34",
             "url": "https://github.com/erredi/LineageOTAstatic/releases/download/2024.05.15_bahamut_21.0/lineage-21.0-20240515-UNOFFICIAL-bahamut.zip",
