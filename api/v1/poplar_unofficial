@@ -329,36 +329,6 @@
             "version": "19.1",
             "id": "6e4ffe2153544ac61897758e2a3ef1257d8505b16b807ad879a0ba809ccd2b85",
             "size": 801087351
-        },
-        {
-            "incremental": "eng.riccar.20221021.163114",
-            "api_level": "32",
-            "url": "https://github.com/erredi/LineageOTAstatic/releases/download/21.10.22_poplar_19.1/lineage-19.1-20221021-UNOFFICIAL-poplar.zip",
-            "timestamp": 1666366488,
-            "md5sum": "8944f63e288c189bd5f818d978936146",
-            "changes": "https://github.com/erredi/LineageOTAstatic/releases/tag/21.10.22_poplar_19.1",
-            "channel": "unofficial",
-            "filename": "lineage-19.1-20221021-UNOFFICIAL-poplar.zip",
-            "romtype": "unofficial",
-            "datetime": 1666366488,
-            "version": "19.1",
-            "id": "dbc448fa306468107ae03899ae9003c98ce98392b55e35e4f00b3d05795eda07",
-            "size": 800753058
-        },
-        {
-            "incremental": "eng.riccar.20221014.134824",
-            "api_level": "32",
-            "url": "https://github.com/erredi/LineageOTAstatic/releases/download/14.10.22_poplar_19.1/lineage-19.1-20221014-UNOFFICIAL-poplar.zip",
-            "timestamp": 1665748257,
-            "md5sum": "2bcf487fc80d2d66b83a931c71f43518",
-            "changes": "https://github.com/erredi/LineageOTAstatic/releases/tag/14.10.22_poplar_19.1",
-            "channel": "unofficial",
-            "filename": "lineage-19.1-20221014-UNOFFICIAL-poplar.zip",
-            "romtype": "unofficial",
-            "datetime": 1665748257,
-            "version": "19.1",
-            "id": "ec0ed8b31880dc5122ecb0a729f6a37b8fe00c38b680329832af12dbdd15f5fa",
-            "size": 800426978
         }
     ]
 }

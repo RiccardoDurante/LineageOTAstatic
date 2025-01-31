@@ -1,6 +1,36 @@
 {
     "response": [
         {
+            "incremental": "1738315313",
+            "api_level": "35",
+            "url": "https://github.com/erredi/LineageOTAstatic/releases/download/2025.01.31_maple_22.1/lineage-22.1-20250131-UNOFFICIAL-maple.zip",
+            "timestamp": 1738315313,
+            "md5sum": "4276ba1c4ef87f53e58716263e25d411",
+            "changes": "https://github.com/erredi/LineageOTAstatic/releases/tag/2025.01.31_maple_22.1",
+            "channel": "unofficial",
+            "filename": "lineage-22.1-20250131-UNOFFICIAL-maple.zip",
+            "romtype": "unofficial",
+            "datetime": 1738315313,
+            "version": "22.1",
+            "id": "2f10773c11d3fe22fa7a145869b921aa11ea4c6f139e4480ddb01f4109737d80",
+            "size": 1061815665
+        },
+        {
+            "incremental": "1738077205",
+            "api_level": "35",
+            "url": "https://github.com/erredi/LineageOTAstatic/releases/download/2025.01.28_maple_22.1/lineage-22.1-20250128-UNOFFICIAL-maple.zip",
+            "timestamp": 1738077205,
+            "md5sum": "74a45bdf8562f81ee34856b3dc6e0aaf",
+            "changes": "https://github.com/erredi/LineageOTAstatic/releases/tag/2025.01.28_maple_22.1",
+            "channel": "unofficial",
+            "filename": "lineage-22.1-20250128-UNOFFICIAL-maple.zip",
+            "romtype": "unofficial",
+            "datetime": 1738077205,
+            "version": "22.1",
+            "id": "1c732a458e33e5cc75ec7f5d9fd2ea8e66a0dfa082b1e5be6b3c38d04fd06f36",
+            "size": 1061935257
+        },
+        {
             "incremental": "1737108305",
             "api_level": "35",
             "url": "https://github.com/erredi/LineageOTAstatic/releases/download/2025.01.17_maple_22.0/lineage-22.0-20250117-UNOFFICIAL-maple.zip",
